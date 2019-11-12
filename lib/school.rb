@@ -2,7 +2,7 @@ class School
   def initialized(name)
     @name = name
     @roster = {}
-  end  
+  end
    def roster
      @roster
    end
